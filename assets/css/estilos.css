@@ -17,6 +17,12 @@ body {
   background-position: left;
 }
 
+/*section about me*/
+
+.aboutme {
+  color: #9b7777;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
