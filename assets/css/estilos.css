@@ -2,13 +2,16 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Navbar section*/
+
 .nav_bg{
   background-color: #9b7777;
 }
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Portada.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
